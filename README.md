@@ -1,4 +1,9 @@
-# create-svelte
+# Back to static site generation Platform grote thema's
+
+![image](https://github.com/Demivdm/back-to-static-site-generation/assets/112861166/0d53281c-502e-499a-97d6-70b7410149d4)
+
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
